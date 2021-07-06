@@ -2,9 +2,9 @@
  <img align="center" src="/Banner.png" width="100%" alt="Banner could not be found"/>
  
 ### About me
- I was born in Johannesburg South Africa and have lived here all my life. Growing up, I tried my best to do anything and everything that I could. I have played violin, guitar, chess, rugby, competed in fishing, athletics, cross country and sung in my old school's choir. As of right now my passions lie in long distance running, mountain biking and martial arts.
+ I was born in Johannesburg South Africa and have lived here all my life. Growing up, I tried my best to do anything and everything that I could. I have played violin, guitar, chess, rugby, competed in fishing, athletics, cross country and sung in my old school's choir. As of right now my passions lie in long distance running, mountain biking and martial arts. In my spare time I also enjoy reading, playing games and sending memes to my friends. 
  
- I made the decision to study Computer Sciences at The University of Pretoria and am now in my 3rd year of studies. 
+ I am currently in my 3rd year of studying Computer Sciences at The University of Pretoria. 
  
 ### My skills
  
@@ -20,10 +20,10 @@
 </p>
  
 ### My interests
-My interests tend to lean towards more theoretical aspects of Computer Sciences. I am deeply interested in Compiler Construction, but also have found myself researching both Security, Discrete Mathematics and Problem Solving in my own time. 
+My interests tend to lean towards more theoretical aspects of Computer Sciences. I am deeply interested in Compiler Construction, but also have found myself researching both Security, Discrete Mathematics and Problem Solving in my own time.
  
 ### My Current Work
  
 
  ### Contact me
- 
+u17112592@tuks.co.za
