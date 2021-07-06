@@ -7,6 +7,7 @@
  I am currently in my 3rd year of studying Computer Sciences at The University of Pretoria. 
  
 ### My skills
+The technologies I am most comfortable with are listed below. 
  
  <p> 
  <img alt="NodeJs" src="https://img.shields.io/badge/NodeJS-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
@@ -18,6 +19,7 @@
  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" />
  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=for-the-badge" /> 
 </p>
+On a more personal level, I am a great team player and a strong leader. I find it easy to talk to and work with others and can keep a cool head under pressure. 
  
 ### My interests
 My interests tend to lean towards more theoretical aspects of Computer Sciences. I am deeply interested in Compiler Construction, but also have found myself researching both Security, Mathematics and Problem Solving in my own time. I also find myself drawn to developing silly discord bots for my friends. 
