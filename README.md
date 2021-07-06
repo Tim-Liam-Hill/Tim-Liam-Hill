@@ -12,10 +12,14 @@
   <img alt="Amazon S3" src="https://img.shields.io/badge/AWS%20S3-569A31?logo=Amazon%20S3&logoColor=white&style=for-the-badge" />
  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=for-the-badge" />
  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" />
+ <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
+ <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" />
+ <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=for-the-badge" /> 
 </p>
  
-### My Current Work
+### My interests
  
+### My Current Work
  
 
  ### Contact me
