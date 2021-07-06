@@ -20,10 +20,10 @@
 </p>
  
 ### My interests
-My interests tend to lean towards more theoretical aspects of Computer Sciences. I am deeply interested in Compiler Construction, but also have found myself researching both Security, Discrete Mathematics and Problem Solving in my own time.
+My interests tend to lean towards more theoretical aspects of Computer Sciences. I am deeply interested in Compiler Construction, but also have found myself researching both Security, Mathematics and Problem Solving in my own time. I also find myself drawn to developing silly discord bots for my friends. 
  
 ### My Current Work
- 
+ My current focus is on my studies. If you would like to collaborate on a project however, please feel free to send me an email.
 
  ### Contact me
 u17112592@tuks.co.za
