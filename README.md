@@ -7,7 +7,7 @@
  I am currently in my 3rd year of studying Computer Sciences at The University of Pretoria. 
  
 ### My skills
-The technologies I am most comfortable with are listed below. 
+In general, I far prefer backend work to frontend work. Although I am able to work with html, css and Ionic I find I enjoy work that is more involved with problem solving and algorithms than visual appearance. The technologies I am most comfortable with are listed below. 
  
  <p> 
  <img alt="NodeJs" src="https://img.shields.io/badge/NodeJS-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
@@ -18,6 +18,7 @@ The technologies I am most comfortable with are listed below.
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" />
  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=for-the-badge" /> 
+ <img alt="PHP" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" /> 
 </p>
 On a more personal level, I am a great team player and a strong leader. I find it easy to talk to and work with others and can keep a cool head under pressure. 
  
