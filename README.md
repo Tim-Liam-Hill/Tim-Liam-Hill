@@ -23,7 +23,7 @@ In general, I far prefer backend work to frontend work. Although I am able to wo
 On a more personal level, I am a great team player and a strong leader. I find it easy to talk to and work with others and can keep a cool head under pressure. 
  
 ### My interests
-My interests tend to lean towards more theoretical aspects of Computer Sciences. I am deeply interested in Compiler Construction, but also have found myself researching both Security, Mathematics and Problem Solving in my own time. I also find myself drawn to developing silly discord bots for my friends. 
+My interests tend to lean towards more theoretical aspects of Computer Sciences. I am deeply interested in Compiler Construction, but also have found myself researching Security, Mathematics and Problem Solving in my own time. I also find myself drawn to developing silly discord bots for my friends. 
  
 ### My Current Work
  My current focus is on my studies. If you would like to collaborate on a project however, please feel free to send me an email.
