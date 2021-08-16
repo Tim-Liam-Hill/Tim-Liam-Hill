@@ -18,7 +18,7 @@ In general, I far prefer backend work to frontend work. Although I am able to wo
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" />
  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=for-the-badge" /> 
- <img alt="PHP" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" /> 
+ <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" /> 
 </p>
 On a more personal level, I am a great team player and a strong leader. I find it easy to talk to and work with others and can keep a cool head under pressure. 
  
