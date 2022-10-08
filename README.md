@@ -8,10 +8,24 @@
 ### My skills
 In general, I far prefer backend work to frontend work. Although I am able to work with html, css and Ionic I find I enjoy work that is more involved with problem solving and algorithms than visual appearance. The technologies I am most comfortable with are listed below. 
  
+ Cloud Technologies:
+ 
+ <p>
+ <img alt="Amazon S3" src="https://img.shields.io/badge/AWS%20S3-569A31?logo=Amazon%20S3&logoColor=white&style=for-the-badge" />
+
+ </p>
+ 
+ Distributed Technologies:
+ 
+ <p>
+  <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-66CCFF?logo=Apache%20HadooplogoColor=white&style=for-the-badge" />
+ </p>
+ 
+ Languages and Databases:
+ 
  <p> 
  <img alt="NodeJs" src="https://img.shields.io/badge/NodeJS-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white&style=for-the-badge" />
-  <img alt="Amazon S3" src="https://img.shields.io/badge/AWS%20S3-569A31?logo=Amazon%20S3&logoColor=white&style=for-the-badge" />
  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=for-the-badge" />
  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" />
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
