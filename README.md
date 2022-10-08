@@ -2,9 +2,8 @@
  <img align="center" src="/Banner.png" width="100%" alt="Banner could not be found"/>
  
 ### About me
- I was born in Johannesburg South Africa and have lived here all my life. Growing up, I tried my best to do anything and everything that I could. I have played violin, guitar, chess, rugby, competed in fishing, athletics, cross country and sung in my old school's choir. As of right now my passions lie in long distance running, mountain biking and martial arts. In my spare time I also enjoy reading, playing games and sending memes to my friends. 
- 
- I am currently in my 3rd year of studying Computer Sciences at The University of Pretoria. 
+ I was born in Johannesburg South Africa and have spent most of my life there before moving to Cape Town. Growing up, I tried my best to do anything and everything that I could. I have played violin, guitar, chess, rugby, competed in fishing, athletics, cross country and sung in my old school's choir. As of right now my passions lie in grappling (Brazilian JiuJitsu), although I am still just a white belt. In my spare time I also enjoy reading, playing games and sending memes to my friends (only the spiciest memes of course). 
+
  
 ### My skills
 In general, I far prefer backend work to frontend work. Although I am able to work with html, css and Ionic I find I enjoy work that is more involved with problem solving and algorithms than visual appearance. The technologies I am most comfortable with are listed below. 
@@ -26,7 +25,8 @@ On a more personal level, I am a great team player and a strong leader. I find i
 My interests tend to lean towards more theoretical aspects of Computer Sciences. I am deeply interested in Compiler Construction, but also have found myself researching Security, Mathematics and Problem Solving in my own time. I also find myself drawn to developing silly discord bots for my friends. 
  
 ### My Current Work
- My current focus is on my studies. If you would like to collaborate on a project however, please feel free to send me an email.
+
+I am currently working as a Cloud Support Engineer for AWS, specifically helping large enterprises troubleshoot and improve their distributed computing environments. As such I have been working mainly with distributed technologies and frameworks such as Apache Hadoop, Spark, Hive etc. Beyond this I have also become comfortable working in a Cloud Environment and as a Linux Administrator of sorts, but my passion for coding and building remains unchanged.
 
  ### Contact me
 u17112592@tuks.co.za
