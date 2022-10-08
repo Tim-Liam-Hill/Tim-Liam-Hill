@@ -1,5 +1,5 @@
  <h1 align="center"> Welcome to my Github Page</h3>
- <img align="center" src="/Banner.png" width="100%" alt="Banner could not be found"/>
+ <img align="center" src="./Banner.png" width="100%" alt="Banner could not be found"/>
  
 ### About me
  I was born in Johannesburg South Africa and have spent most of my life there before moving to Cape Town. Growing up, I tried my best to do anything and everything that I could. I have played violin, guitar, chess, rugby, competed in fishing, athletics, cross country and sung in my old school's choir. As of right now my passions lie in grappling (Brazilian JiuJitsu), although I am still just a white belt. In my spare time I also enjoy reading, playing games and sending memes to my friends (only the spiciest memes of course). 
@@ -12,13 +12,17 @@ In general, I far prefer backend work to frontend work. Although I am able to wo
  
  <p>
  <img alt="Amazon S3" src="https://img.shields.io/badge/AWS%20S3-569A31?logo=Amazon%20S3&logoColor=white&style=for-the-badge" />
-
+<img alt="Amazon EC2" src="https://img.shields.io/badge/AWS%20EC2-FF9900?logo=Amazon%20EC2&logoColor=white&style=for-the-badge" />
+<img alt="Amazon EMR" src="https://img.shields.io/badge/EMR-560131?logo=Amazon%20AWS&logoColor=white&style=for-the-badge" />
+<img alt="Amazon VPC" src="https://img.shields.io/badge/VPC-969A31?logo=Amazon%20AWS&logoColor=white&style=for-the-badge" />
  </p>
  
  Distributed Technologies:
  
  <p>
-  <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-66CCFF?logo=Apache%20HadooplogoColor=white&style=for-the-badge" />
+  <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-66CCFF?logo=Apache%20Hadoop&logoColor=black&style=for-the-badge" />
+  <img alt="Hive" src="https://img.shields.io/badge/Hive-FDEE21?logo=Apache%20Hive&logoColor=black&style=for-the-badge" />
+  <img alt="Spark" src="https://img.shields.io/badge/Spark-E25A1C?logo=Apache%20Spark&logoColor=black&style=for-the-badge" />
  </p>
  
  Languages and Databases:
