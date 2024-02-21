@@ -2,11 +2,11 @@
  <img align="center" src="./Banner.png" width="100%" alt="Banner could not be found"/>
  
 ### About me
- I was born in Johannesburg South Africa and have spent most of my life there before moving to Cape Town. Growing up, I tried my best to do anything and everything that I could. I have played violin, guitar, chess, rugby, competed in fishing, athletics, cross country and sung in my old school's choir. As of right now my passions lie in grappling (Brazilian JiuJitsu), although I am still just a white belt. In my spare time I also enjoy reading, playing games and sending memes to my friends (only the spiciest memes of course). 
+ I was born in Johannesburg South Africa and have spent most of my life there before moving to Cape Town. Growing up, I tried my best to do anything and everything that I could. I have played violin, guitar, chess, rugby, competed in fishing, athletics, cross country and sung in my old school's choir. As of right now my passions lie in grappling (Brazilian JiuJitsu), although I am still just a white belt. In my spare time I also enjoy reading, playing games and finding new ways to make my girlfriend laugh.
 
  
 ### My skills
-In general, I far prefer backend work to frontend work. Although I am able to work with html, css and Ionic I find I enjoy work that is more involved with problem solving and algorithms than visual appearance. The technologies I am most comfortable with are listed below. 
+In general I far prefer backend work to frontend work, and I find I enjoy work that is more involved with problem solving and algorithms than visual appearance. The technologies I am most comfortable with are listed below. 
  
  Cloud Technologies:
  
@@ -47,4 +47,4 @@ My interests tend to lean towards more theoretical aspects of Computer Sciences.
 I am currently working as a Cloud Support Engineer for AWS, specifically helping large enterprises troubleshoot and improve their distributed computing environments. As such I have been working mainly with distributed technologies and frameworks such as Apache Hadoop, Spark, Hive etc. Beyond this I have also become comfortable working in a Cloud Environment and as a Linux Administrator of sorts, but my passion for coding and building remains unchanged.
 
  ### Contact me
-u17112592@tuks.co.za
+timothyhill202@gmail.com
