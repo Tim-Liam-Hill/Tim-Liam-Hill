@@ -36,15 +36,13 @@ In general I far prefer backend work to frontend work, and I find I enjoy work t
  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" />
  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=for-the-badge" /> 
  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" /> 
+ <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" /> 
 </p>
 On a more personal level, I am a great team player and a strong leader. I find it easy to talk to and work with others and can keep a cool head under pressure. 
  
 ### My interests
 My interests tend to lean towards more theoretical aspects of Computer Sciences. I am deeply interested in Compiler Construction, but also have found myself researching Security, Mathematics and Problem Solving in my own time. I also find myself drawn to developing silly discord bots for my friends. 
  
-### My Current Work
-
-I am currently working as a Cloud Support Engineer for AWS, specifically helping large enterprises troubleshoot and improve their distributed computing environments. As such I have been working mainly with distributed technologies and frameworks such as Apache Hadoop, Spark, Hive etc. Beyond this I have also become comfortable working in a Cloud Environment and as a Linux Administrator of sorts, but my passion for coding and building remains unchanged.
 
  ### Contact me
 timothyhill202@gmail.com
