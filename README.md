@@ -42,7 +42,3 @@ On a more personal level, I am a great team player and a strong leader. I find i
  
 ### My interests
 My interests tend to lean towards more theoretical aspects of Computer Sciences. I am deeply interested in Compiler Construction, but also have found myself researching Security, Mathematics and Problem Solving in my own time. I also find myself drawn to developing silly discord bots for my friends. 
- 
-
- ### Contact me
-timothyhill202@gmail.com
