@@ -2,7 +2,7 @@
  <img align="center" src="./Banner.png" width="100%" alt="Banner could not be found"/>
  
 ### About me
- I was born in Johannesburg South Africa and have spent most of my life there before moving to Cape Town. Growing up, I tried my best to do anything and everything that I could. Amongst the things I have tried in life are violin, guitar, chess, rugby, competitive fishing, athletics, cross country, choir and son on. As of right now my passions lie in grappling (Brazilian JiuJitsu), although I am still just a white belt. In my spare time I also enjoy reading, playing games and finding new ways to make my girlfriend laugh.
+ I was born in Johannesburg South Africa and have spent most of my life there before moving to Cape Town. Growing up, I tried my best to do anything and everything that I could. Amongst the things I have tried in life are violin, guitar, chess, rugby, competitive fishing, athletics, cross country, choir and so on. As of right now my passions lie in grappling (Brazilian JiuJitsu), although I am still just a white belt. In my spare time I also enjoy reading, playing games and finding new ways to make my girlfriend laugh.
 
  
 ### My skills
