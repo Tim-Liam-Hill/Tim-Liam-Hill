@@ -1,10 +1,6 @@
  <h1 align="center"> Welcome to my Github Page</h3>
  <img align="center" src="./Banner.png" width="100%" alt="Banner could not be found"/>
  
-### About me
- I was born in Johannesburg South Africa and have spent most of my life there before moving to Cape Town. Growing up, I tried my best to do anything and everything that I could. Amongst the things I have tried in life are violin, guitar, chess, rugby, competitive fishing, athletics, cross country, choir and so on. As of right now my passions lie in grappling (Brazilian JiuJitsu), although I am still just a white belt. In my spare time I also enjoy reading, playing games and finding new ways to make my girlfriend laugh.
-
- 
 ### My skills
 In general I far prefer backend work to frontend work, and I find I enjoy work that is more involved with problem solving and algorithms than visual appearance. The technologies I am most comfortable with are listed below. 
  
@@ -38,7 +34,4 @@ In general I far prefer backend work to frontend work, and I find I enjoy work t
  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" /> 
  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" /> 
 </p>
-On a more personal level, I am a great team player and a strong leader. I find it easy to talk to and work with others and can keep a cool head under pressure. 
- 
-### My interests
-My interests tend to lean towards more theoretical aspects of Computer Sciences. I am deeply interested in Compiler Construction, but also have found myself researching Security, Mathematics and Problem Solving in my own time. I also find myself drawn to developing silly discord bots for my friends. 
+
